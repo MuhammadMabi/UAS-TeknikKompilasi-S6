@@ -3,8 +3,8 @@
 
 - **Mata Kuliah:** Teknik Kompilasi
 - **Program Studi:** Teknik Informatika (Semester 6)
-- **Nama Mahasiswa:** [Isi Nama]
-- **NIM:** [Isi NIM]
+- **Nama Mahasiswa:** Muhammad Mabi Palaka
+- **NIM:** 231011401691
 
 ---
 
